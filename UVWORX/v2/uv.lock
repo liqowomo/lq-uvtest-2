@@ -111,7 +111,7 @@ wheels = [
 ]
 
 [[package]]
-name = "v1"
+name = "v1raperape"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
