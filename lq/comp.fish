@@ -10,4 +10,5 @@ function comp
     ls -al panty.tar.xz
     curl  https://snips.sh/f/5d1unzQuUf
     echo " Decompresss= : tar -xvf panty.tar.xz -C <sniff - makedirectoryfirst>  "
+    echo " Upload file from cli:  curl bashupload.com -T StinlyMistressWorship.txt"
 end
