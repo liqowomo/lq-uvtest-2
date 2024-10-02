@@ -2,7 +2,7 @@
 # You will call i for writing wih this code
 # curl https://snips.sh/f/leQYOwBiIc > ~/.config/fish/config.fish
 starship init fish | source
-
+starship preset pure-preset > ~/.config/starship.toml
 # --- This section is for fish --- #
 
 # eza
